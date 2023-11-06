@@ -1,0 +1,114 @@
+Info: Zpracování symbolu 'C1:OPL_Capacitor:C0603'.
+Info: Zpracování symbolu 'C2:OPL_Capacitor:C0603'.
+Info: Zpracování symbolu 'C3:OPL_Capacitor:C0603'.
+Info: Zpracování symbolu 'C4:OPL_Capacitor:C0603'.
+Info: Zpracování symbolu 'C5:Capacitor_SMD:CP_Elec_4x5.4'.
+Info: Zpracování symbolu 'C6:Capacitor_SMD:CP_Elec_4x5.4'.
+Info: Zpracování symbolu 'C7:OPL_Capacitor:C0603'.
+Info: Zpracování symbolu 'R19:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'CN1:OPL_Connector:H8-2.54'.
+Info: Zpracování symbolu 'D1:OPL_Discrete_Semiconductor:SOT-23'.
+Info: Zpracování symbolu 'R20:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R22:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'D2:OPL_Discrete_Semiconductor:SOT-23'.
+Info: Zpracování symbolu 'J9:TerminalBlock_TE-Connectivity:TerminalBlock_TE_1-282834-2_1x12_P2.54mm_Horizontal'.
+Info: Zpracování symbolu 'D5:OPL_Discrete_Semiconductor:DO-41'.
+Info: Zpracování symbolu 'D7:OPL_Discrete_Semiconductor:DO-41'.
+Info: Zpracování symbolu 'D9:OPL_Discrete_Semiconductor:DO-41'.
+Info: Zpracování symbolu 'DS1:Display:WC1602A'.
+Info: Zpracování symbolu 'IC1:agg:ADXL3x5'.
+Info: Zpracování symbolu 'J1:OPL_Connector:H3-2.54'.
+Info: Zpracování symbolu 'J2:OPL_Connector:H4-2.54'.
+Info: Zpracování symbolu 'J3:OPL_Connector:H2-2.54'.
+Info: Zpracování symbolu 'J5:OPL_Connector:H3-2.54'.
+Info: Zpracování symbolu 'J6:OPL_Connector:H2-2.54'.
+Info: Zpracování symbolu 'J7:OPL_Connector:H3-2.54'.
+Info: Zpracování symbolu 'J8:OPL_Connector:H4-2.54'.
+Info: Zpracování symbolu 'R23:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'J10:TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal'.
+Info: Zpracování symbolu 'J11:TerminalBlock_TE-Connectivity:TerminalBlock_TE_1-282834-2_1x12_P2.54mm_Horizontal'.
+Info: Zpracování symbolu 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Zpracování symbolu 'Q2:Package_TO_SOT_SMD:SOT-23'.
+Info: Zpracování symbolu 'Q3:Package_TO_SOT_SMD:SOT-23'.
+Info: Zpracování symbolu 'Q4:Package_TO_SOT_SMD:SOT-23'.
+Info: Zpracování symbolu 'Q5:Package_TO_SOT_SMD:TO-252-3_TabPin4'.
+Info: Zpracování symbolu 'R24:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'Q6:Package_TO_SOT_SMD:SOT-23'.
+Info: Zpracování symbolu 'R25:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R26:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R27:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R28:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R29:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R30:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R31:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R32:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R33:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'Q7:Package_TO_SOT_SMD:SOT-23'.
+Info: Zpracování symbolu 'R34:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R36:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R37:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'U1:Package_SO:SO-8_5.3x6.2mm_P1.27mm'.
+Info: Zpracování symbolu 'U2:ESP8266:NodeMCU1.0(12-E)'.
+Info: Zpracování symbolu 'U3:Package_SO:SSOP-8_3.95x5.21x3.27mm_P1.27mm'.
+Info: Zpracování symbolu 'U4:footprints:xl6009_footPrint'.
+Info: Zpracování symbolu 'U5:OPL_Integrated_Circuit:SOT-89'.
+Info: Zpracování symbolu 'USB1:OPL_Connector:MICRO-USB5+4P-SMD-0.65-B'.
+Info: Zpracování symbolu 'R35:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'Q9:Package_TO_SOT_SMD:TO-252-3_TabPin4'.
+Info: Zpracování symbolu 'R1:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R2:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R3:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R4:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R5:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R10:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R11:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R12:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R13:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R17:OPL_Resistor:R0603'.
+Info: Zpracování symbolu 'R18:OPL_Resistor:R0603'.
+Přidáno Q6 (pouzdro 'Package_TO_SOT_SMD:SOT-23').
+Znovu připojit D1 vývod 1 z +5V na +12V.
+Znovu připojit R11 vývod 1 z Net-(Q10-C) na Net-(Q6-E).
+Znovu připojit R3 vývod 1 z Net-(Q6-C) na Net-(Q7-E).
+Znovu připojit R12 vývod 2 z Net-(Q10-B) na Net-(Q6-B).
+Připojit Q6 vývod 1 na Net-(Q6-B).
+Změněna reference schématu REF** na Q6.
+Změna Q6 hodnoty z SOT-23 na MMBT2907.
+Aktualizováno přiřazení symbolů Q6 z  na /198976b3-5cc8-4d6b-ae03-246e8ae98fe8.
+Aktualizovány vlastnosti Q6.
+Aktualizovány vlastnosti R28.
+Přidat síť Net-(Q6-E).
+Připojit Q6 vývod 2 na Net-(Q6-E).
+Připojit Q6 vývod 3 na GND.
+Přidáno Q7 (pouzdro 'Package_TO_SOT_SMD:SOT-23').
+Změněna reference schématu REF** na Q7.
+Změna Q7 hodnoty z SOT-23 na MMBT2907.
+Aktualizováno přiřazení symbolů Q7 z  na /ff3cd28f-7605-4efb-b9da-0250430fe248.
+Aktualizovány vlastnosti Q7.
+Přidat síť Net-(Q7-B).
+Připojit Q7 vývod 1 na Net-(Q7-B).
+Přidat síť Net-(Q7-E).
+Připojit Q7 vývod 2 na Net-(Q7-E).
+Znovu připojit R13 vývod 2 z Net-(Q10-B) na Net-(Q6-B).
+Znovu připojit R4 vývod 2 z Net-(Q6-B) na Net-(Q7-B).
+Změna R2 hodnoty z SMD-RES-2.2K-5%-1_10W_0603_ na SMD-RES-10K-5%-1_10W_0603_.
+Znovu připojit R5 vývod 2 z Net-(Q6-B) na Net-(Q7-B).
+Znovu připojit Q9 vývod 2 z +5V na +12V.
+Připojit Q7 vývod 3 na GND.
+Změna R10 hodnoty z SMD-RES-2.2K-5%-1_10W_0603_ na SMD-RES-10K-5%-1_10W_0603_.
+Znovu připojit R10 vývod 1 z +5V na +12V.
+Změna R3 hodnoty z SMD-RES-100R-5%-1_10W_0603_ na SMD-RES-1k5-5%-1_10W_0603_.
+Změna R11 hodnoty z SMD-RES-100R-5%-1_10W_0603_ na SMD-RES-1k5-5%-1_10W_0603_.
+Varování: Žádná síť pro symbol D1 vývod 3.
+Varování: Žádná síť pro symbol D2 vývod 3.
+Varování: Žádná síť pro symbol Q5 vývod 4.
+Varování: Žádná síť pro symbol U4 vývod 6.
+Varování: Žádná síť pro symbol Q9 vývod 4.
+Varování: Žádná síť pro symbol U5 vývod 4.
+Varování: Žádná síť pro symbol U4 vývod 5.
+Chyba: Nelze přidat C7 (pouzdro 'OPL_Capacitor:C0603' nenalezeno).
+Chyba: USB1 ploška 10 nenalezena v OPL_Connector:MICRO-USB5+4P-SMD-0.65-B.
+Chyba: USB1 ploška 11 nenalezena v OPL_Connector:MICRO-USB5+4P-SMD-0.65-B.
+
+
+Info: Celkem varování: 0, chyb: 3.

@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name ESP8266)(type Legacy)(uri ${MY_GITHUB_COMPONENTS}/kicad-ESP8266-master/kicad-ESP8266-master/ESP8266.lib)(options "")(descr ""))
-  (lib (name ESP8266_MotherBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/ESP8266_MotherBoard-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "ESP8266")(type "Legacy")(uri "${MY_GITHUB_COMPONENTS}/kicad-ESP8266-master/kicad-ESP8266-master/ESP8266.lib")(options "")(descr ""))
+  (lib (name "ESP8266_MotherBoard-rescue")(type "KiCad")(uri "${KIPRJMOD}/ESP8266_MotherBoard-rescue.kicad_sym")(options "")(descr ""))
 )

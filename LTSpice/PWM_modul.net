@@ -1,0 +1,24 @@
+* E:\Elektronika\KiCAD\ESP8266_MotherBoard\LTSpice\PWM_modul.asc
+M1 N004 N002 N001 N001 IRF9640
+R2 N004 0 1k
+V1 N001 0 24v
+Q1 N005 N007 0 0 2N2222
+R1 N007 N006 10k
+R3 N003 N006 10k
+V2 N003 0 3v3
+R5 N007 0 10k
+R4 N001 N002 10k
+R6 N002 N005 1k5
+D1 N002 N001 BZX84C15L
+.model D D
+.lib C:\Users\rmysk\Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\rmysk\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\rmysk\Documents\LTspiceXVII\lib\cmp\standard.mos
+.tran 1s
+* grounded -> simulate MCU output is low
+.backanno
+.end
